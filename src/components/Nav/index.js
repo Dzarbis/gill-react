@@ -7,10 +7,10 @@ function Nav() {
             <div>
                 <ul>
                     <li>
-                        <Link to='/about'>About Me</Link>
+                        <Link to='/About'>About Me</Link>
                     </li>
                     <li>
-                        <Link to='/websites'>Websites</Link>
+                        <Link to='/Websites'>Websites</Link>
                     </li>
                     <li>
                         <Link to='/Contact'>Contact Me</Link>

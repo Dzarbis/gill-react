@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Col } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 import '../../'
 
 function Websites() {
@@ -44,7 +44,7 @@ function Websites() {
 
     const cards = ( sites, i) => {
         return (
-            <Card className="flex-row img-thumbnail">
+            <Card className="flex-row img-thumbnail" style={{width: '33rem', height: '25rem'}}>
                 <Card.Img src={require(`../../assets/images/${sites.image}.png`)} />
                 <Card.Body>
                     <Card.Title>{sites.title}</Card.Title>
