@@ -1,23 +1,23 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import About from './components/About';
-import Websites from './components/Websites';
-import Nav from './components/Nav';
-import Contact from './components/Contact';
+import About from './components/about.js';
+import Websites from './components/websites.js';
+import Nav from './components/nav.js';
+import Contact from './components/contact.js';
+import Resume from './components/resume.js';
 
-class App extends Component {
-  render() {
-    return (
-      <Router>
-        <Nav></Nav>
-        <Switch>
-          <Route path='/About' component={About} />
-          <Route path='/Websites' component={Websites} />
-          <Route path='/Contact' component={Contact} />
-        </Switch>
-      </Router>
-    )
-  }
+function App() {
+  return (
+    <Router>
+      <Nav />
+       <Switch>
+         <Route path='/About' component={About} />
+         <Route path='/Websites' component={Websites} />
+         <Route path='/Contact' component={Contact} />
+         <Route path='/Resume' component={Resume} />
+       </Switch>
+     </Router>
+  )
 };
 
 export default App;

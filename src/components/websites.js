@@ -12,7 +12,7 @@ function Websites() {
         {
             image: 'ranker',
             title: <a href='https://dzarbis.github.io/ranker/'>Rank-o-Tron 5000</a>,
-            description: 'A site to rank variious movie lists',
+            description: 'A site to rank various movie lists',
             github: 'https://github.com/dzarbis/ranker'
         },
         {
@@ -44,7 +44,7 @@ function Websites() {
     const cards = ( sites, i) => {
         return (
             <Card className="flex-row img-thumbnail" style={{width: '33rem', height: '25rem'}}>
-                <Card.Img src={require(`../../assets/images/${sites.image}.png`)} />
+                <Card.Img src={require(`../assets/images/${sites.image}.png`)} />
                 <Card.Body>
                     <Card.Title>{sites.title}</Card.Title>
                     <div><a href={sites.github}></a></div>
