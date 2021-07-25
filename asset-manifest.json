@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gill-react/static/css/main.ce863586.chunk.css",
+    "main.js": "/gill-react/static/js/main.94e95800.chunk.js",
+    "main.js.map": "/gill-react/static/js/main.94e95800.chunk.js.map",
+    "runtime-main.js": "/gill-react/static/js/runtime-main.08437278.js",
+    "runtime-main.js.map": "/gill-react/static/js/runtime-main.08437278.js.map",
+    "static/js/2.4168c9fb.chunk.js": "/gill-react/static/js/2.4168c9fb.chunk.js",
+    "static/js/2.4168c9fb.chunk.js.map": "/gill-react/static/js/2.4168c9fb.chunk.js.map",
+    "static/js/3.51bffd9b.chunk.js": "/gill-react/static/js/3.51bffd9b.chunk.js",
+    "static/js/3.51bffd9b.chunk.js.map": "/gill-react/static/js/3.51bffd9b.chunk.js.map",
+    "index.html": "/gill-react/index.html",
+    "static/css/main.ce863586.chunk.css.map": "/gill-react/static/css/main.ce863586.chunk.css.map",
+    "static/js/2.4168c9fb.chunk.js.LICENSE.txt": "/gill-react/static/js/2.4168c9fb.chunk.js.LICENSE.txt",
+    "static/media/budget-pal.png": "/gill-react/static/media/budget-pal.235c2482.png",
+    "static/media/coder-quiz.png": "/gill-react/static/media/coder-quiz.8110229b.png",
+    "static/media/note-taker.png": "/gill-react/static/media/note-taker.eda3d903.png",
+    "static/media/profile.jpg": "/gill-react/static/media/profile.7575f932.jpg",
+    "static/media/ranker.png": "/gill-react/static/media/ranker.97762a89.png",
+    "static/media/scheduler.png": "/gill-react/static/media/scheduler.5cac01f8.png",
+    "static/media/work-life.png": "/gill-react/static/media/work-life.9861e589.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08437278.js",
+    "static/js/2.4168c9fb.chunk.js",
+    "static/css/main.ce863586.chunk.css",
+    "static/js/main.94e95800.chunk.js"
+  ]
+}
