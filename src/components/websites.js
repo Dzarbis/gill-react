@@ -28,10 +28,10 @@ function Websites() {
             github: 'https://github.com/Dzarbis/coder-quiz'
         },
         {
-            image: 'note-taker',
-            title: <a href='https://dry-river-25617.herokuapp.com/'>Note Taker</a>,
-            description: 'An app to take and save notes',
-            github: 'https://dry-river-25617.herokuapp.com/'
+            image: 'pic-up',
+            title: <a href='https://evening-refuge-82542.herokuapp.com/'>Pic'd Up</a>,
+            description: 'A platform for photographers to connect',
+            github: 'https://github.com/Ronan-Codes/Project-3'
         },
         {
             image: 'work-life',
